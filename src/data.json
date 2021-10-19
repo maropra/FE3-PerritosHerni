@@ -1,0 +1,14 @@
+[
+    {
+        "breed": "Chihuahua",
+        "size": "Pequeños"
+    },
+    {
+        "breed": "Beagle",
+        "size": "Medianos"
+    },
+    {
+        "breed": "Boxer",
+        "size": "Grandes"
+    }
+]
